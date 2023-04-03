@@ -7,8 +7,26 @@ In this project, we're looking at the data science job opportunity connected to 
 
 ## Statistical Summary
 **Statistical analysis for the variable Base Salary (USD)**<br>
+![test 1](https://user-images.githubusercontent.com/122247029/229635696-00647f69-7347-49b3-a56c-61afa86e5e25.PNG)
 
+![test 2](https://user-images.githubusercontent.com/122247029/229635708-74db5e19-a84d-4589-837f-5d62a8fb3ef2.PNG)<br>
 
+**Mean**
+The mean of the base salary is 159796.75 UDS. The minimum salary is 12500, and the maximum salary is 685000 USD. The data indicated that a candidate’s average salary is around 159796.75 UDS. This mean value indicated an average salary offered to a candidatecompared to different companies. This mean value can be compared against an individual base salary to judge if they have comparably provided a good salary compared to another candidate. Similarly, their respective means can be used to compare the base salary of a smaller group against a more comprehensive group. An example would be comparing the mean base salary offered by a small company and a big company. <br>
+
+**Standard Deviation**
+The standard deviation of the variable base salary is 61995. 20. That means that each company’s base salary is at an average difference of 61995.20 from the mean salary of all the companies. This value shows how the data is spread out from the mean. The standard deviation is less than the mean value, indicating that the data points were below the mean. Since the standard deviation is lower than the mean value, the data are more clustered around the mean. <br>
+
+**Median**
+The median of the variable base salary is 150000, and the mean value is 159796.75. The median provides a helpful measure of the center of a dataset. We can see that the median value is very close to the mean value. Since the median value is almost very close to the mean, we can conclude that the dataset distribution is symmetrical. We are comparing the median to the mean; we can say that the data set is evenly distributed from the lowest to highest values.<br>
+
+**Minimum**
+We see the minimum base salary offered to a job. When we compare the base salary provided by different companies for different job roles and different years of experience, we see that the minimum salary offered is $12500<br>
+
+**Maximum** We see the maximum base salary offered to a job. When we compare the base salary provided by different companies for different job roles and different years of experience, we see that the maximum salary offered is $685000<br>
+
+**Variance**
+The variance of the variable base salary is 3843404792, which is very high. This indicates that some companies offer very high salaries, and some offer very low salaries. This also suggests that salary values are more spread out. <br>
 
 ## Statistical Test
 **1. One-way Frequency**<br>
