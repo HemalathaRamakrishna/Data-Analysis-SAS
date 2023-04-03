@@ -4,3 +4,6 @@ In this project, we're looking at the data science job opportunity connected to 
 
 ## The dataset for this project has been taken from the URL link:
 [Data Science Job Posting Data Analysis](https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset)
+
+## Statistical Analysis
+**1. One-way Frequency**<br>
